@@ -77,7 +77,7 @@ if (isset($_POST['cerrarsesion'])) {
         <div class="row">                           
             <div class="col-lg-12">
                 <!-- Button trigger modal -->
-                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+                <button type="button" class="btn btn-outline-success" data-toggle="modal" data-target="#exampleModal">
                     Agregar Usuario
                 </button>
 
